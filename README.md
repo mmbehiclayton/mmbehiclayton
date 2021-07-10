@@ -7,10 +7,15 @@ A Software Engineer with industry experience building real time and responsive w
 Professional experience working with PHP, JavaScript, Bootstrap and CSS.
 
 My stack is as follows:
+
 Frontend: HTML, CSS, SASS, JavaScript, Typescript, Angular
+
 Backend: Python, PHP
+
 Data Science: Data Mining, Exploratory Data Analysis, Machine Learning, Data Visualization
+
 Cloud Computing: Linux, Google Cloud Platform
+
 CI/CD: GitHub Actions
 
 🔭 I’m currently as a Software Engineer at Essay Scribers.
