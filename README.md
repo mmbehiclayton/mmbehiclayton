@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mmbehi Clayton
 - 🌱 I’m currently learning Python Programming and Machine Learning. 
 - 💞️ I’m looking to collaborate with Developers around the World to build real time solutions.
-- 📫 How to reach me ...
+- 📫 Reach me on: mmbehiclayton@gmail.com
 
 A Software Engineer with industry experience building real time and responsive web applications. Specializing in PHP, Python, JavaScript, Web technologies and Machine Learning. 
 Professional experience working with PHP, JavaScript, Bootstrap and CSS.
