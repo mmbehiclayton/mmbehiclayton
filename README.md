@@ -10,7 +10,7 @@ My stack is as follows:
 
 Frontend: HTML, CSS, SASS, JavaScript, Typescript, Angular
 
-Backend: Python, PHP
+Backend: Python, Django, PHP
 
 Data Science: Data Mining, Exploratory Data Analysis, Machine Learning, Data Visualization
 
