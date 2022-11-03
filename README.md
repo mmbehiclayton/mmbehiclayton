@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mmbehi Clayton
-- 🌱 I’m currently learning Python Programming and Machine Learning. 
+- 🌱 I’m currently working as a freelance Software Developer. 
 - 💞️ I’m looking to collaborate with Developers around the World to build real time solutions.
 - 📫 Reach me on: mmbehiclayton@gmail.com
 
@@ -8,7 +8,7 @@ Professional experience working with PHP, JavaScript, Bootstrap and CSS.
 
 My stack is as follows:
 
-Frontend: HTML, CSS, SASS, JavaScript, Typescript, Angular
+Frontend: HTML, CSS, SASS, JavaScript, React, Typescript, Angular
 
 Backend: Python, Django, PHP
 
@@ -18,7 +18,7 @@ Cloud Computing: Linux, Google Cloud Platform
 
 CI/CD: GitHub Actions
 
-🔭 I’m currently as a Software Engineer at Essay Scribers.
+🔭 I’m currently as a freelance Software Engineer.
 <!---
 mmbehiclayton/mmbehiclayton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
